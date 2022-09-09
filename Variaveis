@@ -4,3 +4,12 @@
 // A variavel string é utilizada para se atribuir palavras.
 // Exemplo: string nome = "Cassio";
 
+// A variavel double ou float é utilizada para se atribuir o tipo de valor numerico.
+// Exemplo: double N1 = 2,75;
+
+// A variavel char é utilizada para se atribuir letras.
+// Exemplo: char letra = c;
+
+// A variavel boll é utilizada para se atribuir o tipo de valor verdadeiro ou falso.
+// Exemplo: boll ex = false;
+
